@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\Matrice.h(124,1): warning C4245: 'initialisation' : conversion de 'int' en 'size_t', incompatibilité signed/unsigned
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\Matrice.h(117): message : pendant la compilation de la fonction membre classe modèle 'bool Matrice<int>::chargerDepuisFichier(const std::string &)'
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(27): message : voir la référence à l'instanciation de la fonction modèle 'bool Matrice<int>::chargerDepuisFichier(const std::string &)' en cours de compilation
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(26): message : voir la référence à l'instanciation classe modèle 'Matrice<int>' en cours de compilation
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(52,1): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(49): message : pendant la compilation de la fonction membre classe modèle 'Coordonnees PivoterMatrice<Matrice<Entier>>::changerCoordonneesCentreMatrice(Coordonnees) const'
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(84): message : voir la référence à l'instanciation de la fonction modèle 'Coordonnees PivoterMatrice<Matrice<Entier>>::changerCoordonneesCentreMatrice(Coordonnees) const' en cours de compilation
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(41): message : pendant la compilation de la fonction membre classe modèle 'PivoterMatrice<Matrice<Entier>>::PivoterMatrice(M *)'
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(41): message :         with
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(41): message :         [
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(41): message :             M=Matrice<Entier>
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(41): message :         ]
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(191): message : voir la référence à l'instanciation de la fonction modèle 'PivoterMatrice<Matrice<Entier>>::PivoterMatrice(M *)' en cours de compilation
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(191): message :         with
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(191): message :         [
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(191): message :             M=Matrice<Entier>
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(191): message :         ]
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\src\main.cpp(191): message : voir la référence à l'instanciation classe modèle 'PivoterMatrice<Matrice<Entier>>' en cours de compilation
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(95): warning C4701: variable locale 'coords' potentiellement non initialisée utilisée
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(95): warning C4701: variable locale 'coords' potentiellement non initialisée utilisée
+E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\TP4_H20\include\PivoterMatrice.h(95): warning C4701: variable locale 'coords' potentiellement non initialisée utilisée
+  TP4_H20.vcxproj -> E:\Documents\Hiver 2020\INF1010\TP4_H20 (2)\Enoncé\Windows\x64\Debug\TP4_H20.exe
